@@ -1,8 +1,8 @@
-# Aufgabe 8: Seiteninhalt strukturieren
+# Aufgabe 5: Seiteninhalt strukturieren
 
 ## a) Strukturierung der Web-Seite
 
-Strukturieren Sie Ihre Web-Seite, die Sie in Aufgabe 5 als Datei `index.html` angelegt haben, in einzelne Bereiche, indem Sie entsprechende HTML5-Strukturelemente verwenden. Sie dürfen für die Bereiche, für die es keine geeigneten HTML5-Strukturelemente gibt, auch Container-Elemente (`<div>`) verwenden.
+Strukturieren Sie Ihre Web-Seite, die Sie in Aufgabe 3 als Datei `index.html` angelegt haben, in einzelne Bereiche, indem Sie entsprechende HTML5-Strukturelemente verwenden. Sie dürfen für die Bereiche, für die es keine geeigneten HTML5-Strukturelemente gibt, auch Container-Elemente (`<div>`) verwenden.
 
 Beispiel:
 

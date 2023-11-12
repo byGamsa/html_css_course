@@ -1,4 +1,4 @@
-# Aufgabe 6: Zeichenkodierung
+# Aufgabe 4: Zeichenkodierung
 
 Spezifizieren Sie in den Kopfdaten Ihrer HTML-Datei (`index.html`):
 - einmal den Zeichensatz `ISO8859-1`

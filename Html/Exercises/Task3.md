@@ -1,7 +1,7 @@
-# Aufgabe 5: HTML-Grundgerüst
+# Aufgabe 3: HTML-Grundgerüst
 
 ## a) Datei erstellen
-Legen Sie im Ordner "webdev" (vgl. Aufgabe 4) eine Datei mit dem Namen `index.html` an.
+Legen Sie im Ordner "webdev" (vgl. Aufgabe 2) eine Datei mit dem Namen `index.html` an.
 
 ## b) Öffnen Sie die Datei
 Öffnen Sie diese Datei mit einem reinen Text-Editor oder einer Entwicklungsumgebung, die Sie bevorzugen. Das Bearbeiten mit Microsoft Word ist NICHT möglich!

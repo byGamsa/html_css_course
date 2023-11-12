@@ -1,4 +1,4 @@
-# Aufgabe 4: Projekt anlegen
+# Aufgabe 2: Projekt anlegen
 
 ## Zielsetzung
 Bei der Arbeit sollen Sie ein neues Verzeichnis für Ihr Webentwicklungsprojekt erstellen. Folgen Sie den untenstehenden Anweisungen

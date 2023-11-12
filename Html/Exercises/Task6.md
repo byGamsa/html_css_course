@@ -1,4 +1,4 @@
-# Aufgabe 11: Hyperlinks (Querverweise)
+# Aufgabe 6: Hyperlinks (Querverweise)
 
 ## a) Dateiorganisation
 
@@ -31,8 +31,7 @@ In mindestens einer der Dateien soll ein Inhaltsverzeichnis durch Verwendung ein
 1. [Einführung](#einführung)
 2. [Hauptteil](#hauptteil)
 3. [Schlussfolgerung](#schlussfolgerung)
-
-# Aufgabe 11: Hyperlinks (Querverweise)...
+...
 ```
 
 ## Ziel
