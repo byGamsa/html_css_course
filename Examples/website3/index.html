@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>MusicHub</title>
+</head>
+<body>
+    <header>
+        <h1>MusicHub</h1>
+    </header>
+
+    <section id="featured">
+        <h2>Featured Songs</h2>
+        <div class="song" onclick="playSong('song1.mp3')">Song 1</div>
+        <div class="song" onclick="playSong('song2.mp3')">Song 2</div>
+        <div class="song" onclick="playSong('song3.mp3')">Song 3</div>
+    </section>
+
+    <section id="playlist">
+        <h2>My Playlist</h2>
+        <div class="song" onclick="playSong('playlistSong1.mp3')">Playlist Song 1</div>
+        <div class="song" onclick="playSong('playlistSong2.mp3')">Playlist Song 2</div>
+        <div class="song" onclick="playSong('playlistSong3.mp3')">Playlist Song 3</div>
+    </section>
+
+    <footer>
+        <audio controls id="audioPlayer">
+            Your browser does not support the audio tag.
+        </audio>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>

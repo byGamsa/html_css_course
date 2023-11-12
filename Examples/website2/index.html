@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/style.css">
+    <title>Photo Share</title>
+</head>
+<body>
+    <header>
+        <h1>Photo Share</h1>
+    </header>
+
+    <main>
+        <section id="upload-section">
+            <label for="fileInput" class="upload-label">
+                <span>Choose a Photo</span>
+                <input type="file" id="fileInput" accept="image/*">
+            </label>
+            <button onclick="uploadPhoto()">Upload</button>
+        </section>
+
+        <section id="gallery-section"></section>
+    </main>
+
+    <script src="app.js"></script>
+</body>
+</html>
