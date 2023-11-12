@@ -71,7 +71,7 @@ Bestimmt, wie der Link geöffnet wird (z.B., in einem neuen Tab oder Fenster).
 <a href="https://www.example.com" target="_blank">Öffne in neuem Tab</a>
 ```
 
-## `title`:
+3. ## `title`:
 
 Zeigt einen Tooltip mit dem angegebenen Text an, wenn der Benutzer über den Link schwebt.
 
@@ -79,7 +79,7 @@ Zeigt einen Tooltip mit dem angegebenen Text an, wenn der Benutzer über den Lin
 <a href="https://www.example.com" title="Beschreibung">Link mit Tooltip</a>
 ```
 
-## `download`-Attribut
+4. ## `download`-Attribut
 
 Das `download`-Attribut in HTML ermöglicht das Herunterladen der verlinkten Ressource. Hier ein Beispiel:
 
